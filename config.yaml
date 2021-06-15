@@ -1,0 +1,5 @@
+service:
+- foo:
+    url: http://testing.com
+    apiKey: my-api-key
+ 
